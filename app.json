@@ -1,0 +1,6 @@
+{
+  "name": "Heroku Deployment Platform",
+  "description": "A private deployment testing platform",
+  "repository": "https://github.com/aliman999/platform",
+  "addons": []
+}
