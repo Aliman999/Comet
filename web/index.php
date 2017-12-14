@@ -8,7 +8,7 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 </head>
 <body>
-  <div class="md-primary">
+  <div class="md-whiteSpace md-firstSpace md-primary">
 
   </div>
 </body>
