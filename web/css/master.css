@@ -38,7 +38,7 @@ html, body, div{
 
   background: transparent;
 
-  animation: bottomBorderPan 0.75s, slideUp 0.5s 1s;
+  animation: bottomBorderPan 0.75s, slideUp 0.5s 1.5s;
   animation-fill-mode: forwards,forwards;
 
 
