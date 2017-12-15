@@ -1,0 +1,35 @@
+.nb-container{
+  width: 60%;
+  height: 120px;
+
+  background-color: #131313;
+
+  position: relative;
+
+  left: 50%;
+
+  transform: translatex(-50%);
+}
+
+.nb-menu{
+  position: absolute;
+
+  height: 48px;
+  width: 48px;
+
+  right: 16px;
+  top:50%;
+
+  transform: translateY(-50%);
+}
+.nb-menu>input{
+  height: 48px;
+  width: 48px;
+
+  border: none;
+  background: transparent;
+  background: url("/src/ic_menu_white_24dp.png") center center no-repeat;
+  background-size: 48px;
+
+  padding: 0px;
+}
