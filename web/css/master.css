@@ -20,7 +20,7 @@ html, body, div{
 
   position: absolute;
 
-  background-image: url("../src/boardpic2.jpg");
+  background-image: url("../src/dashbg1.jpg");
   background-position: center center;
 
   filter: blur(25px);
