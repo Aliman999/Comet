@@ -21,8 +21,6 @@
 
     <div class="md-header">
 
-    <img class="md-logo" src="/src/Starico.png" alt="">
-
     <h1 class="md-title">PROJECT COMET</h1>
 
     </div>
@@ -31,11 +29,7 @@
     </div>
   </div>
 </body>
-
 <?php
-
-  header( "refresh:3; url=/dashboard/index.php" );
-
+  header( "refresh:3; url=/dashboard" );
 ?>
-
 </html>
