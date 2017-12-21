@@ -22,6 +22,7 @@ html, body, div{
 
   background-image: url("../src/dashbg1.jpg");
   background-position: center center;
+  background-size: cover;
 
   filter: blur(25px);
 }
