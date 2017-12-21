@@ -30,6 +30,6 @@
   </div>
 </body>
 <?php
-  header( "refresh:3; url=../dashboard/" );
+  header( "refresh:3; url=../dashboard/index.php" );
 ?>
 </html>
